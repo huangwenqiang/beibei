@@ -6,3 +6,6 @@ hahhahahahah
 
 
 made   我正在开发分支上
+
+
+Creating a new branch is quick & simple.
